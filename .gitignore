@@ -1,3 +1,9 @@
+*.zip
+kdeplot/
+results/
+countries/
+traceplot/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
